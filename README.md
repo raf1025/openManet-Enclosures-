@@ -6,6 +6,9 @@ Parts List
  - 2 wifi Antennas 2.4 5
  - 3 18650 batteries
  - 1 CAZN waterproof USB-C port or ethernet port
+ - 10 Hexagon socket countersunk HeadCap screw M3x10
+ - 8 M2.5 heat set insets
+ - 8 M2.5 Screws
 
 
 
